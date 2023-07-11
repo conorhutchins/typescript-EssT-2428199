@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "allowJs": true,
+        "checkJs": true,
+        "outDir": "build",
+    },
+    "include": ["**.ts"],
+}
